@@ -1,0 +1,18 @@
+Manny Gonzalez
+Computer Science
+100 100 90 80 75 100
+Fred Uribe
+History
+90 86 54 89 99 10
+Louise Garmendia
+Computer Science
+97 95 99 34 100 100
+Margot Creon
+Computer Science 
+10 8 9 50 75 88
+Martin Juarez
+Linguistics
+100 100 100 100 100 105
+Sami Ruella
+Finance
+50 45 87 90 92 99
